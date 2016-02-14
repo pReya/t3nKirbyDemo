@@ -1,16 +1,16 @@
-Title: Kirby Starterkit
+Title: Mein Musterblog
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Muster User
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Das ist ein Beispiel für eine Kirby-Installation die für ein kleines Blog verwendet wird.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: Kirby,CMS,file-based
 
 ----
 

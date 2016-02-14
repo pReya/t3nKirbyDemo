@@ -28,3 +28,6 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('locale', 'de_DE.utf8');
+c::set('timezone','Europe/Berlin');
