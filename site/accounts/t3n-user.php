@@ -7,6 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - blog/dritter-blogpost
+  - blog/das-ist-ein-test
   - blog
   - blog/erster-blogpost
   - blog/zweiter-blogpost
